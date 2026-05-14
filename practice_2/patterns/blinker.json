@@ -1,0 +1,11 @@
+{
+  "name": "Blinker",
+  "description": "Period-2 oscillator: 3 cells in a row",
+  "pattern": [
+    [0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0],
+    [0, 1, 1, 1, 0],
+    [0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0]
+  ]
+}

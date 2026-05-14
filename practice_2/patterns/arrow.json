@@ -1,0 +1,11 @@
+{
+  "name": "Glider",
+  "description": "Classic 5-step diagonal spaceship",
+  "pattern": [
+    [0, 0, 0, 0, 0],
+    [0, 1, 1, 0, 0],
+    [0, 1, 0, 1, 0],
+    [0, 0, 1, 0, 0],
+    [0, 0, 0, 0, 0]
+  ]
+}
